@@ -1,6 +1,6 @@
 #   solving n Queens arrange without any clashes in n*n Chess board with GA(genetic algorithm) 
 #   by mohammad asadolahi
-#   mohmad.asa1994@gmail.com
+#   Mohammad.E.Asadolahi@gmail.com
 import random
 import numpy as np
 from matplotlib import pyplot as plt
